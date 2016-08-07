@@ -1,5 +1,18 @@
 <application>
-  <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="6.3.1" last-modified="1469123096000" />
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
 </application>

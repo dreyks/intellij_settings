@@ -1,0 +1,58 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote-rvm:ruby-2.3.1-p112" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="ssh://dreyk@localhost:22/home/dreyk/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" PLATFORM="x86_64-linux" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936\861978025" DATA-VERSION="2" HOST="localhost" PORT="22" ANONYMOUS="false" USERNAME="dreyk" PASSWORD="df98dfcedfcbdfd0df99df99dfc9dfcd" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/dreyk/.rvm/rubies/ruby-2.3.1/bin/ruby" HELPERS_PATH="/home/dreyk/.rubymine_helpers" INITIALIZED="false" VALID="true">
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/bundler/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/bundler/gems" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/861978025" remote-root="/home/dreyk/.rvm/rubies/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/bin" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/gems" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/specifications" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/bundler" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/bundler" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/bin" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/gems" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/specifications" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/bundler" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/861978025" remote-root="/home/dreyk/.rvm/rubies/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/bin" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/gems" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/specifications" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/1466155493/bundler" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1/bundler" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/bin" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/gems" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/specifications" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/-1911985936/-1040837026/bundler" remote-root="/home/dreyk/.rvm/gems/ruby-2.3.1@global/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
