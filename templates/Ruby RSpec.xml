@@ -1,0 +1,16 @@
+<templateSet group="Ruby RSpec">
+  <template name="it" value="it '$DO_SOME_COOL_STUFF$' do&#10;  $ADD_SOME_COOL_CODE$&#10;end" description="it" toReformat="true" toShortenFQNames="true">
+    <variable name="DO_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ADD_SOME_COOL_CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="co" value="context '$CONTEXT$' do&#10;    $DO_SOMETHING$&#10;end" description="context" toReformat="true" toShortenFQNames="true">
+    <variable name="CONTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DO_SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
