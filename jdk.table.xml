@@ -1,0 +1,93 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.2.4-p230" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.4p230 ( revision 53155) p230" />
+      <homePath value="C:/UTIL/ruby/bin/ruby.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/site_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/vendor_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/2.2.0" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/2.2.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/site_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/vendor_ruby/2.2.0/i386-msvcrt" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/2.2.0" />
+            <root type="simple" url="file://C:/UTIL/ruby/lib/ruby/2.2.0/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.4p230 ( revision 53155) p230" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:\UTIL\ruby\bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote-rvm:ruby-2.3.1-p112" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="sftp://roma@172.17.12.12:22/home/roma/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" PLATFORM="x86_64-linux" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112\-2044256737" DATA-VERSION="2" WEB_SERVER_CONFIG_ID="89fd049d-20d6-4d1e-874c-3daed0ca1c72" WEB_SERVER_CONFIG_NAME="Remote Ruby Interpreter" HOST="172.17.12.12" PORT="22" ANONYMOUS="false" USERNAME="roma" PASSWORD="" PRIVATE_KEY_FILE="C:\Users\usherenko\.ssh\id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/home/roma/.rvm/rubies/ruby-2.3.1/bin/ruby" HELPERS_PATH="/home/roma/.rubymine_helpers" INITIALIZED="false" VALID="true">
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/bundler/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/bundler/gems" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-2044256737" remote-root="/home/roma/.rvm/rubies/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/bin" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/specifications" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/bundler" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/bundler" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/bin" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/gems" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/specifications" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/bundler" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-2044256737" remote-root="/home/roma/.rvm/rubies/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/bin" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/specifications" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/bundler" remote-root="/home/roma/.rvm/gems/ruby-2.3.1/bundler" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/bin" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/bin" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/gems" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/gems" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/specifications" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/specifications" />
+              <mapping local-root="$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/bundler" remote-root="/home/roma/.rvm/gems/ruby-2.3.1@global/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

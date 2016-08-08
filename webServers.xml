@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="89fd049d-20d6-4d1e-874c-3daed0ca1c72" name="Remote Ruby Interpreter" url="http://172.17.12.12">
+        <fileTransfer host="172.17.12.12" port="22" privateKey="C:\Users\usherenko\.ssh\id_rsa" rootFolder="/home/roma" accessType="SFTP" passphrase="df99dfd2df9fdfffdfc5df8fdfccdfce" username="roma" keyPair="true">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
