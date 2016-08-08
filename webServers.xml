@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="530d37cb-e52a-4d00-8853-d8806884e49a" name="Remote Ruby localhost" url="http://localhost">
-        <fileTransfer host="localhost" port="22" privateKey="C:\Users\dreyk\.ssh\id_rsa.ossh" rootFolder="/home/dreyk" accessType="SFTP" username="dreyk" keyPair="true">
+        <fileTransfer host="localhost" port="22" privateKey="C:\Users\dreyk\.ssh\id_rsa.ossh" rootFolder="/home/dreyk" accessType="SFTP" passphrase="df99dfd2df9fdfffdfc5df8fdfccdfce" username="dreyk" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
