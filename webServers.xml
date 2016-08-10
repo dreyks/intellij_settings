@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a7dc3e5e-ffb1-48d7-a572-4b629cd73414" name="wsl" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="22" privateKey="C:\Users\dreyk\.ssh\id_rsa.ossh" rootFolder="/home/dreyk" accessType="SFTP" passphrase="df99dfd2df9fdfffdfc5df8fdfccdfce" username="dreyk" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
