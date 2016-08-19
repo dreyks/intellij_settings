@@ -20,9 +20,6 @@
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
-  </action>
   <action id="ShowContent" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="shift f4" />
