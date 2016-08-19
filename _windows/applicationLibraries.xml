@@ -306,6 +306,17 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/awesome_print-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="babel-core-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_babel-core_babel-core.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_babel-core_babel-core.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="benchmark-ips (v2.6.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/benchmark-ips-2.6.1/lib" />
@@ -626,6 +637,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/coderay-1.1.1/bin" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.2.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/coffee-rails-4.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/coffee-rails-4.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.4.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.10.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/coffee-script-source-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/coffee-script-source-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="colored (v1.2, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -1150,6 +1185,16 @@
         <root url="file://C:/UTIL/ruby/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.6.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/jbuilder-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/jbuilder-2.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/jbuilder-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/jbuilder-2.6.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="joiner (v0.3.4, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/joiner-0.3.4/lib" />
@@ -1342,6 +1387,16 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/libv8-5.0.71.48.3-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/libv8-5.0.71.48.3-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/libv8-5.0.71.48.3-x86_64-linux/vendor" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.0.8, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/listen-3.0.8/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/listen-3.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/listen-3.0.8/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/listen-3.0.8/lib" />
       </SOURCES>
     </library>
     <library name="listen (v3.1.5, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -1792,6 +1847,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/parser-2.3.1.2/bin" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/parser-2.3.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.18.4, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/sample" />
       </SOURCES>
     </library>
     <library name="php-serialize (v1.1.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -2339,6 +2406,39 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rb-inotify-0.9.7/lib" />
       </SOURCES>
+    </library>
+    <library name="react-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-create-fragment.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-css-transition-group.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-linked-state-mixin.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-perf.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-pure-render-mixin.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-shallow-compare.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-test-utils.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-transition-group.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-update.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-dom.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-create-fragment.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-css-transition-group.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-linked-state-mixin.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-perf.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-pure-render-mixin.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-shallow-compare.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-test-utils.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-transition-group.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-update.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-dom.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react.d.ts" />
+      </CLASSES>
+      <SOURCES />
     </library>
     <library name="readthis (v2.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -3220,6 +3320,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/spring-commands-rspec-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="spring-watcher-listen (v2.0.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/spring-watcher-listen-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/spring-watcher-listen-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v3.0.3, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/sprockets-3.0.3/bin" />
@@ -3434,6 +3542,22 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/tool-0.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v5.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/turbolinks-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/turbolinks-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.0.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/turbolinks-source-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/turbolinks-source-5.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="twitter_cldr (v3.3.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/twitter_cldr-3.3.0/lib" />
@@ -3571,6 +3695,19 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/web-console-3.3.1/lib" />
       </SOURCES>
+    </library>
+    <library name="webpack-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack-env.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack-env.d.ts" />
+      </CLASSES>
+      <SOURCES />
     </library>
     <library name="websocket-driver (v0.6.4, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
