@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="89fd049d-20d6-4d1e-874c-3daed0ca1c72" name="Remote Ruby Interpreter" url="http://172.17.12.12">
-        <fileTransfer host="172.17.12.12" port="22" privateKey="C:\Users\usherenko\.ssh\id_rsa" rootFolder="/home/roma" accessType="SFTP" passphrase="df99dfd2df9fdfffdfc5df8fdfccdfce" username="roma" keyPair="true">
+        <fileTransfer host="172.17.12.12" port="22" privateKey="C:\Users\usherenko\.ssh\id_rsa" rootFolder="/home/roma" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a7dc3e5e-ffb1-48d7-a572-4b629cd73414" name="wsl" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="22" privateKey="C:\Users\dreyk\.ssh\id_rsa.ossh" rootFolder="/home/dreyk" accessType="SFTP" passphrase="df99dfd2df9fdfffdfc5df8fdfccdfce" username="dreyk" keyPair="true">
+        <fileTransfer host="127.0.0.1" port="22" privateKey="C:\Users\dreyk\.ssh\id_rsa.ossh" rootFolder="/home/dreyk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -18,5 +18,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABIOv4eWgU70kfu381HK3FKuI/9dyf1GMHsU8Q8Pep7UXZEcdtUbljNVW+fgXblPNx7ccVkltXicZooJZaDZItV4H3IAsB3bxNJIuJBZEMOgQ4Hif5xjMMRCvLi7ykWhbVvl9bsqOM181HS/wIz9DVrXLth6wSQ5xsprX3Fa4M1wKBvHhpNaYXncYZ4WuPaxWMNjLLVjW3+QsUIt8cWOqzyUBUXI+THRkqW2m/b7isyJy8+i6VNGXXECn5Gv9PDPSKqEyoweyzQFSCmCUn1G+PiTz3mUTsNa7x+NF904M/hqOe0bPBNHQZenCbj+ZPwHGxmO7C3uO62Y1KxnOROU67x6KMwgO93B7glIrEcuev+a6ECshV7YTbL2jwuuHWABWbrUP5lnTfM2LgNc7czxlziWs=</data>
   </component>
 </application>
