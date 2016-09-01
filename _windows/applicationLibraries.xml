@@ -8,6 +8,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actioncable-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actioncable-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actioncable-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actioncable-5.0.0.rc1/lib" />
@@ -30,6 +38,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionmailer-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionmailer-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionmailer-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="actionmailer (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -64,6 +80,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionpack-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionpack-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionpack-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionpack-5.0.0.rc1/lib" />
@@ -96,6 +120,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionview-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionview-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionview-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/actionview-5.0.0.rc1/lib" />
@@ -118,6 +150,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activejob-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activejob-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activejob-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -144,6 +184,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activemodel-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activemodel-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activemodel-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activemodel-5.0.0.rc1/lib" />
@@ -166,6 +214,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activerecord-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activerecord-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activerecord-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -198,6 +254,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activesupport-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activesupport-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/activesupport-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -387,6 +451,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/camertron-eprun-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="camertron-eprun (v1.1.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/camertron-eprun-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/camertron-eprun-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.5.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.5.0/bin" />
@@ -409,6 +481,18 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.0/bin" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.0/features" />
+      </SOURCES>
+    </library>
+    <library name="capistrano (v3.6.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.1/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.1/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.1/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.1/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capistrano-3.6.1/features" />
       </SOURCES>
     </library>
     <library name="capistrano-bundler (v1.1.4, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -497,6 +581,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capybara-2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.8.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capybara-2.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/capybara-2.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="cells (v4.1.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/cells-4.1.1/lib" />
@@ -515,6 +607,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/cells-4.1.2/lib" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/cells-4.1.2/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="cells (v4.1.3, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/cells-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/cells-4.1.3/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/cells-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/cells-4.1.3/benchmarks" />
       </SOURCES>
     </library>
     <library name="cells-erb (v0.0.7, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -931,6 +1033,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/fuubar-2.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="fuubar (v2.2.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/fuubar-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/fuubar-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gem-wrappers (v1.2.7, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/-939801432/gems/gem-wrappers-1.2.7/ext" />
@@ -973,6 +1083,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/gettext_i18n_rails-1.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="gettext_i18n_rails (v1.8.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/gettext_i18n_rails-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/gettext_i18n_rails-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.3.6, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -1185,6 +1303,26 @@
         <root url="file://C:/UTIL/ruby/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="jasmine (v2.4.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-2.4.0/release_notes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-2.4.0/release_notes" />
+      </SOURCES>
+    </library>
+    <library name="jasmine-core (v2.4.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-core-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jasmine-core-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v2.6.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/jbuilder-2.6.0/lib" />
@@ -1231,6 +1369,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-rails-4.1.1/lib" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-rails-4.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.2.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-rails-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-rails-4.2.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-rails-4.2.1/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-rails-4.2.1/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-tablesorter (v1.21.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -1291,6 +1439,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-tablesorter-1.22.1/lib" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-tablesorter-1.22.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-tablesorter (v1.22.3, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-tablesorter-1.22.3/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-tablesorter-1.22.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-tablesorter-1.22.3/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/jquery-tablesorter-1.22.3/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-ui-rails (v5.0.5, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -1643,6 +1801,16 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/mustermann-0.4.0/bench" />
       </SOURCES>
     </library>
+    <library name="mustermann (v1.0.0.beta2, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/mustermann-1.0.0.beta2/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/mustermann-1.0.0.beta2/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/mustermann-1.0.0.beta2/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/mustermann-1.0.0.beta2/bench" />
+      </SOURCES>
+    </library>
     <library name="mysql2 (v0.4.4, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/mysql2-0.4.4/ext" />
@@ -1741,6 +1909,26 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.0.318/recipes" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v3.16.2.321, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/ui" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/cert" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/config" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/vendor" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/ui" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/cert" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/config" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/vendor" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/newrelic_rpm-3.16.2.321/recipes" />
+      </SOURCES>
+    </library>
     <library name="nido (v1.0.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/nido-1.0.0/lib" />
@@ -1829,6 +2017,20 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.0.0/shoulda_macros" />
       </SOURCES>
     </library>
+    <library name="paperclip (v5.1.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/features" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/features" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/paperclip-5.1.0/shoulda_macros" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.0.7, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/UTIL/ruby/lib/ruby/gems/2.2.0/gems/parser-2.3.0.7/bin" />
@@ -1859,6 +2061,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-2100705545/1466155493/gems/pg-0.18.4/sample" />
+      </SOURCES>
+    </library>
+    <library name="phantomjs (v2.1.1.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/phantomjs-2.1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/phantomjs-2.1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="php-serialize (v1.1.0, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -2079,6 +2289,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rack-2.0.1/example" />
       </SOURCES>
     </library>
+    <library name="rack-mini-profiler (v0.10.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rack-mini-profiler-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rack-mini-profiler-0.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-mini-profiler (v0.10.1@0f0fad, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/bundler/gems/rack-mini-profiler-0f0fad057ec2/lib" />
@@ -2137,6 +2355,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rack-protection-1.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.0.beta2, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rack-protection-2.0.0.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rack-protection-2.0.0.beta2/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.0.0@4716bc, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/bundler/gems/rack-protection-4716bc20c606/lib" />
@@ -2193,6 +2419,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rails-5.0.0" />
       </SOURCES>
     </library>
+    <library name="rails (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rails-5.0.0.1" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rails-5.0.0.1" />
+      </SOURCES>
+    </library>
     <library name="rails (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rails-5.0.0.rc1" />
@@ -2215,6 +2449,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rails-controller-testing-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-controller-testing (v1.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rails-controller-testing-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rails-controller-testing-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -2277,6 +2519,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/railties-5.0.0/exe" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/railties-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.0.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/railties-5.0.0.1/exe" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/railties-5.0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/railties-5.0.0.1/exe" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/railties-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="railties (v5.0.0.rc1, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -2774,6 +3026,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rspec-rails-3.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.5.2, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rspec-rails-3.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rspec-rails-3.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.4.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rspec-support-3.4.1/lib" />
@@ -2948,6 +3208,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rufus-scheduler-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rufus-scheduler (v3.2.2, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rufus-scheduler-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/rufus-scheduler-3.2.2/lib" />
       </SOURCES>
     </library>
     <library name="rvm (v1.11.3.9, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -3126,6 +3394,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/sidekiq-cron-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="sidekiq-cron (v0.4.3, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/sidekiq-cron-0.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/sidekiq-cron-0.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-failures (v0.4.5, Remote-rvm:ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/sidekiq-failures-0.4.5/lib" />
@@ -3140,6 +3416,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/simple_form-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_form (v3.3.1, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/simple_form-3.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/simple_form-3.3.1/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.11.2, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -3174,6 +3458,14 @@
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/simplecov-html-0.10.0/views" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/simplecov-html-0.10.0/assets" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.0.beta2, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/sinatra-2.0.0.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/sinatra-2.0.0.beta2/lib" />
       </SOURCES>
     </library>
     <library name="sinatra (v2.0.0.pre.alpha@30d4fb, Remote-rvm:ruby-2.3.1-p112) [gem]">
@@ -3612,6 +3904,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/uglifier-3.0.1/lib" />
         <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/uglifier-3.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.0.2, Remote-rvm:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/uglifier-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/uglifier-3.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/uglifier-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2016.1/system/ruby_stubs/1281785112/1421947611/gems/uglifier-3.0.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.0.3, ruby-2.2.4-p230) [gem]">
