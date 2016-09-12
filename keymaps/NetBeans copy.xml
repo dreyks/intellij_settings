@@ -11,6 +11,10 @@
     <keyboard-shortcut first-keystroke="shift alt o" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="Move" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
@@ -20,6 +24,9 @@
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
   <action id="ShowContent" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
